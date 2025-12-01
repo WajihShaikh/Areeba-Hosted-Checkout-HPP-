@@ -1,8 +1,8 @@
 # Areeba MPGS WooCommerce Gateway
 
 **Version:** 1.3.0  
-**Author:** ChatGPT / Gemini  
-**Website:** [https://nomaconcept.net](https://nomaconcept.net)
+**Author:** Wajih Shaikh
+
 
 A fully functional WooCommerce payment gateway integration for **Areeba MPGS Hosted Checkout (HPP)**. This plugin allows customers to pay with credit/debit cards securely via Areeba, while WooCommerce manages orders, stock, and cart behavior.  
 
