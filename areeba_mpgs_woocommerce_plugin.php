@@ -3,7 +3,7 @@
  * Plugin Name: Areeba MPGS WooCommerce Gateway
  * Description: Fully functional WooCommerce payment gateway integration for Areeba MPGS Hosted Checkout.
  * Version: 1.3.0
- * Author: ChatGPT / Gemini
+ * Author: Wajih
  */
 
 if (!defined('ABSPATH')) exit;
